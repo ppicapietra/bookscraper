@@ -21,3 +21,9 @@ Dentro de la carpeta del proyecto, debemos clonar el repositorio, que ya contarÃ
 Para iniciar el crawler, ubicados dentro del directorio bookscrapper padre, el comando correspondiente es:
 
 > scrapy crawl bookscraper
+
+### RESULTADO EN FORMATO JSON
+
+Para obtener el resultado en un archivo JSON, dentro de la carpeta bookscraper padre, puedes correr el comando anterior de la siguiete manera:
+
+> scrapy crawl bookscraper -o results.json

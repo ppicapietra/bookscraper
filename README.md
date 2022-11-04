@@ -18,6 +18,6 @@ Dentro de la carpeta del proyecto, debemos clonar el repositorio, que ya contarÃ
 
 ### CORRER SCRAPER
 
-Para iniciar el crawler, el comando correspondiente es:
+Para iniciar el crawler, ubicados dentro del directorio bookscrapper padre, el comando correspondiente es:
 
 > scrapy crawl bookscraper
